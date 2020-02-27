@@ -25,3 +25,7 @@
 	padding-left: 0;
 	list-style: none;
 }
+
+.reveal .highlight {
+    color: cyan;
+}
